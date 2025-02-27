@@ -1,0 +1,184 @@
+Timestamp: Wed Feb 26 08:01:36 2025
+Memory Usage: Total = 20258936 kB, Free = 13589472 kB
+CPU Usage: 5.39%
+
+Timestamp: Wed Feb 26 08:02:05 2025
+Memory Usage: Total = 20258936 kB, Free = 13597432 kB
+CPU Usage: 0.63%
+
+Timestamp: Wed Feb 26 08:02:16 2025
+Memory Usage: Total = 20258936 kB, Free = 13594440 kB
+CPU Usage: 2.14%
+
+Timestamp: Wed Feb 26 08:03:31 2025
+Memory Usage: Total = 20258936 kB, Free = 13361328 kB
+CPU Usage: 0.13%
+
+Timestamp: Wed Feb 26 08:03:42 2025
+Memory Usage: Total = 20258936 kB, Free = 13428024 kB
+CPU Usage: 0.00%
+
+Timestamp: Wed Feb 26 08:03:54 2025
+Memory Usage: Total = 20258936 kB, Free = 13440380 kB
+CPU Usage: 0.13%
+
+Timestamp: Wed Feb 26 08:04:06 2025
+Memory Usage: Total = 20258936 kB, Free = 13441328 kB
+CPU Usage: 0.13%
+
+Timestamp: Wed Feb 26 08:04:18 2025
+Memory Usage: Total = 20258936 kB, Free = 13442452 kB
+CPU Usage: 0.13%
+
+Timestamp: Wed Feb 26 08:29:45 2025
+Memory Usage: Total = 20258936 kB, Free = 11251296 kB
+CPU Usage: 3.03%
+
+Timestamp: Wed Feb 26 08:30:00 2025
+Memory Usage: Total = 20258936 kB, Free = 11214264 kB
+CPU Usage: 11.52%
+
+Timestamp: Wed Feb 26 09:23:17 2025
+Memory Usage: Total = 20258936 kB, Free = 10132900 kB
+CPU Usage: 0.25%
+
+Timestamp: Wed Feb 26 09:23:28 2025
+Memory Usage: Total = 20258936 kB, Free = 10136900 kB
+CPU Usage: 1.27%
+
+Timestamp: Wed Feb 26 09:24:59 2025
+Memory Usage: Total = 20258936 kB, Free = 10137828 kB
+CPU Usage: 2.76%
+
+Timestamp: Wed Feb 26 09:25:14 2025
+Memory Usage: Total = 20258936 kB, Free = 10146252 kB
+CPU Usage: 1.01%
+
+Timestamp: Wed Feb 26 09:25:26 2025
+Memory Usage: Total = 20258936 kB, Free = 9821728 kB
+CPU Usage: 1.64%
+
+Timestamp: Wed Feb 26 09:25:38 2025
+Memory Usage: Total = 20258936 kB, Free = 9861208 kB
+CPU Usage: 1.88%
+
+Timestamp: Wed Feb 26 09:25:50 2025
+Memory Usage: Total = 20258936 kB, Free = 9855520 kB
+CPU Usage: 1.38%
+
+Timestamp: Wed Feb 26 09:26:02 2025
+Memory Usage: Total = 20258936 kB, Free = 9863328 kB
+CPU Usage: 1.64%
+
+Timestamp: Wed Feb 26 09:26:14 2025
+Memory Usage: Total = 20258936 kB, Free = 9855460 kB
+CPU Usage: 1.77%
+
+Timestamp: Wed Feb 26 09:26:26 2025
+Memory Usage: Total = 20258936 kB, Free = 9852808 kB
+CPU Usage: 1.26%
+
+Timestamp: Wed Feb 26 09:26:38 2025
+Memory Usage: Total = 20258936 kB, Free = 9853600 kB
+CPU Usage: 1.51%
+
+Timestamp: Wed Feb 26 09:26:50 2025
+Memory Usage: Total = 20258936 kB, Free = 9858336 kB
+CPU Usage: 1.88%
+
+Timestamp: Wed Feb 26 09:27:02 2025
+Memory Usage: Total = 20258936 kB, Free = 9848364 kB
+CPU Usage: 1.26%
+
+Timestamp: Wed Feb 26 09:27:14 2025
+Memory Usage: Total = 20258936 kB, Free = 9829508 kB
+CPU Usage: 3.67%
+
+Timestamp: Wed Feb 26 09:27:30 2025
+Memory Usage: Total = 20258936 kB, Free = 9801880 kB
+CPU Usage: 5.46%
+
+Timestamp: Wed Feb 26 09:27:46 2025
+Memory Usage: Total = 20258936 kB, Free = 9836812 kB
+CPU Usage: 1.01%
+
+Timestamp: Wed Feb 26 09:27:58 2025
+Memory Usage: Total = 20258936 kB, Free = 9834748 kB
+CPU Usage: 1.27%
+
+Timestamp: Wed Feb 26 09:28:10 2025
+Memory Usage: Total = 20258936 kB, Free = 9879960 kB
+CPU Usage: 2.25%
+
+Timestamp: Wed Feb 26 09:28:26 2025
+Memory Usage: Total = 20258936 kB, Free = 9903580 kB
+CPU Usage: 1.26%
+
+Timestamp: Wed Feb 26 09:28:38 2025
+Memory Usage: Total = 20258936 kB, Free = 9860420 kB
+CPU Usage: 3.81%
+
+Timestamp: Wed Feb 26 10:04:14 2025
+Memory Usage: Total = 20258936 kB, Free = 9403488 kB
+CPU Usage: 1.25%
+
+Timestamp: Wed Feb 26 10:04:25 2025
+Memory Usage: Total = 20258936 kB, Free = 9589912 kB
+CPU Usage: 6.82%
+
+Timestamp: Wed Feb 26 10:04:41 2025
+Memory Usage: Total = 20258936 kB, Free = 9576240 kB
+CPU Usage: 0.63%
+
+Timestamp: Wed Feb 26 10:04:58 2025
+Memory Usage: Total = 20258936 kB, Free = 9450888 kB
+CPU Usage: 1.38%
+
+Timestamp: Wed Feb 26 10:05:09 2025
+Memory Usage: Total = 20258936 kB, Free = 9624284 kB
+CPU Usage: 2.28%
+
+Timestamp: Wed Feb 26 10:05:24 2025
+Memory Usage: Total = 20258936 kB, Free = 9550664 kB
+CPU Usage: 7.96%
+
+Timestamp: Wed Feb 26 13:01:09 2025
+Memory Usage: Total = 20258936 kB, Free = 8814104 kB
+CPU Usage: 0.88%
+
+Timestamp: Wed Feb 26 13:01:20 2025
+Memory Usage: Total = 20258936 kB, Free = 8733444 kB
+CPU Usage: 1.88%
+
+Timestamp: Wed Feb 26 13:01:32 2025
+Memory Usage: Total = 20258936 kB, Free = 8667544 kB
+CPU Usage: 9.31%
+
+Timestamp: Wed Feb 26 13:01:48 2025
+Memory Usage: Total = 20258936 kB, Free = 8926432 kB
+CPU Usage: 1.76%
+
+Timestamp: Wed Feb 26 13:02:00 2025
+Memory Usage: Total = 20258936 kB, Free = 8841560 kB
+CPU Usage: 1.00%
+
+Timestamp: Wed Feb 26 13:02:12 2025
+Memory Usage: Total = 20258936 kB, Free = 8790268 kB
+CPU Usage: 2.17%
+
+Timestamp: Wed Feb 26 13:02:28 2025
+Memory Usage: Total = 20258936 kB, Free = 8704976 kB
+CPU Usage: 0.63%
+
+Timestamp: Thu Feb 27 09:43:19 2025
+Memory Usage: Total = 20258932 kB, Free = 11753040 kB
+CPU Usage: 6.40%
+
+Timestamp: Thu Feb 27 09:43:34 2025
+Memory Usage: Total = 20258932 kB, Free = 11693952 kB
+CPU Usage: 21.40%
+
+Timestamp: Thu Feb 27 09:43:50 2025
+Memory Usage: Total = 20258932 kB, Free = 11722688 kB
+CPU Usage: 3.02%
+
